@@ -1,0 +1,19 @@
+{
+  "userName": "Test karate",
+  "userIdFirstDigits": 237,
+  "userIdSecondDigits": "888",
+  "phoneNumber": 573025197036,
+  "activityId": "30631039",
+  "processId": "CHATBOTTEC115",
+  "serviceType": "Traslado de Trío Telefonía-Internet-TV",
+  "secondOffer": "segunda oferta",
+  "speed": "20mb",
+  "decos": "2",
+  "address": "Carrera 50C 94 67",
+  "city": "BARRANQUILLA",
+  "dateAppointment": "2024-02-23T07:45:35.330Z",
+  "journeyAppointment": "AM",
+  "url": "www.movistar.co/atencion-al-cliente/agenda-cita-productos-fijos?hash=osEv9FhcOWwXFXLU",
+  "localityCode" : "10001",
+  "localityTest": 0
+}
